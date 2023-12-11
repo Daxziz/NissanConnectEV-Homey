@@ -18,8 +18,25 @@ Planned development:
 ## Installation
 Use the [Homey App Store]([https://homey.app/en-dk/apps/homey-pro/]) to install the app on your Homey Pro.
 
-## Configuration
-TBA
+## Configuration Options
+Username string **(REQUIRED)**
+The username associated with your NissanConnect EV account.
+
+Password **(REQUIRED)**
+The password for the NissanConnect EV account.
+
+Region **(REQUIRED)**
+The region where the NissanConnect EV account is registered. Should be one of the following, NE (for Europe), NNA (USA), NCI (Canada), NMA (Australia), NML (Japan).
+
+Update Interval in Minutes *(optional, default: 60 minutes)*
+The interval between updates if the climate control is off and the car is not charging. Set in any time unit (e.g., minutes, hours, days!).
+**NOTICE:** *Providing a low interval will cause the service to refresh more frequently and can negatively impact your 12V battery.*
+
+Update Interval (charging) in Minutes *(optional, default: 15)*
+The interval in minutes between updates if the car is charging.
+
+Update Interval (climate on) in Minutes *(optional, default: 5)*
+The interval in minutes between updates if the climate control has been switched on.
 
 ## Limitations
 * The NissanConnect EV cloud service (created by Nissan) do not allow charging to be stopped remotely.
