@@ -21,5 +21,11 @@ Use the [Homey App Store]([https://homey.app/en-dk/apps/homey-pro/]) to install 
 ## Configuration
 TBA
 
+## Limitations
+* The NissanConnect EV cloud service (created by Nissan) do not allow charging to be stopped remotely.
+
+## Bug Reporting
+* Nissan's servers are known to be really unstable. Please confirm that the official app for your vechile is working before reporting bugs here. 
+
 ## Donations
 TBA
