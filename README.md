@@ -13,7 +13,7 @@ Planned development:
 * Flow cards to start and stop the climate control.
 * Flow card to start the charging of the car.
 
-* = NissanConnect EV was previously known as Nissan Carwings.
+*=NissanConnect EV was previously known as Nissan Carwings.
 
 ## Installation
 Use the [Homey App Store]([https://homey.app/en-dk/apps/homey-pro/]) to install the app on your Homey Pro.
