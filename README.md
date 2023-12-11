@@ -7,11 +7,11 @@ Please be aware that this integration only works with Nissan vehicles from befor
 This integration has been tested with a Nissan Leaf 2018 and is expected to work on all Nissan Leafs prior to may 2019, however no testing has been done on the 1st generation models. 
 
 The integration offers:
-*Sensors for the battery status, range and charging status.
+* Sensors for the battery status, range and charging status.
 
 Planned development:
-*Flow cards to start and stop the climate control.
-*Flow card to start the charging of the car.
+* Flow cards to start and stop the climate control.
+* Flow card to start the charging of the car.
 
 * = NissanConnect EV was previously known as Nissan Carwings.
 
