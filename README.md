@@ -1,9 +1,9 @@
 # NissanConnectEV-Homey
 Integration of NissanConnect EV service for the Homey Pro models.
 
-The NissanConnect EV integration offers integration with the NissanConnect EV cloud service*. 
+The NissanConnect EV app offers integration with the NissanConnect EV cloud service*. 
 
-Please be aware that this integration only works with Nissan vehicles from before 2019. Newer vehicles will not work with this integration.
+Please be aware that this app only works with Nissan vehicles from before may 2019. Newer vehicles will not work with this integration as they use a different cloud service.
 This integration has been tested with a Nissan Leaf 2018 and is expected to work on all Nissan Leafs prior to may 2019, however no testing has been done on the 1st generation models. 
 
 The integration offers:
