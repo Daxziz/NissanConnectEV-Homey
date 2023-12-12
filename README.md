@@ -30,7 +30,7 @@ The region where the NissanConnect EV account is registered. The following optio
     - USA (NNA)
     - Canada (NCI)
     - Australia (NMA)
-    - Japan (NML).
+    - Japan (NML)
 - Update Interval in Minutes *(optional, default: 60 minutes)*  
 The interval between updates if the climate control is off and the car is not charging.  
 **NOTICE:** *Providing a low update interval will cause the service to refresh more frequently and can negatively impact your cars 12V battery.*
