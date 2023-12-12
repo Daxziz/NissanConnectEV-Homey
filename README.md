@@ -40,7 +40,7 @@ The interval between updates if the climate control is off and the car is not ch
 The interval in minutes between updates if the climate control has been switched on.
 
 ## Limitations
-* The official NissanConnect EV cloud service (developed and maintained by Nissan) do not allow charging to be stopped remotely.
+* The official NissanConnect EV cloud service (developed and maintained by Nissan) do not allow charging to be stopped remotely. By that limitation, this app is not able to do that either.
 
 ## Bug Reporting
 * Nissan's servers are known to be really unstable. Please confirm that the official app for your vechile is working before reporting bugs here. 
