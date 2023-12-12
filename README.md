@@ -1,5 +1,5 @@
 # NissanConnectEV-Homey
-Unofficial integration of the NissanConnect EV cloud service for Athoms Homey Pro.
+Unofficial integration of the NissanConnect EV cloud service for Athoms Homey Pro.  
 Disclaimer: This Homey app is in no way affiliated with either Nissan or Homey.
 
 Please be aware that this app only works with Nissan vehicles from before may 2019. Newer vehicles will not work with this integration as they use a different cloud service.
