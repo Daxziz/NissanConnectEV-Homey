@@ -21,10 +21,9 @@ Use the [Homey App Store]([https://homey.app/en-dk/apps/homey-pro/]) to install 
 
 ## Configuration Options
 - Username **(REQUIRED)**  
-    - The username associated with your official NissanConnect EV account.
-
+The username associated with your official NissanConnect EV account.
 - Password **(REQUIRED)**  
-    - The password for your official NissanConnect EV account.
+The password for your official NissanConnect EV account.
 
 - Region **(REQUIRED)**  
     - The region where the NissanConnect EV account is registered. Should be one of the following, NE (for Europe), NNA (USA), NCI (Canada), NMA (Australia), NML (Japan).
