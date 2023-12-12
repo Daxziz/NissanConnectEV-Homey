@@ -12,6 +12,7 @@ The integration offers:
 Planned development:
 * Flow cards to start and stop the climate control.
 * Flow card to start the charging of the car.
+* Sensor for interior temperature
 
 *=NissanConnect EV was previously known as Nissan Carwings.
 
