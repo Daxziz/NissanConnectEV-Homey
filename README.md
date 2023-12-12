@@ -25,7 +25,7 @@ The username associated with your official NissanConnect EV account.
 - Password **(REQUIRED)**  
 The password for your official NissanConnect EV account.
 - Region **(REQUIRED)**  
-The region where the NissanConnect EV account is registered. The following options are availablr:
+The region where the NissanConnect EV account is registered. The following options are available:
     - Europe (NE)
     - USA (NNA)
     - Canada (NCI)
