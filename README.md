@@ -1,13 +1,12 @@
 # NissanConnectEV-Homey
-Integration of NissanConnect EV service for the Homey Pro models.
-
-The NissanConnect EV app offers integration with the NissanConnect EV cloud service*. 
+Unofficial integration of the NissanConnect EV cloud service for Athoms Homey Pro.
+Disclaimer: This Homey app is in no way affiliated with either Nissan or Homey.
 
 Please be aware that this app only works with Nissan vehicles from before may 2019. Newer vehicles will not work with this integration as they use a different cloud service.
 This integration has been tested with a Nissan Leaf 2018 and is expected to work on all Nissan Leafs prior to may 2019, however no testing has been done on the 1st generation models. 
 
-The integration offers:
-* Sensors for the battery status, range and charging status.
+The integration currently offers:
+* Sensors for the battery charge level, estimated range and charging status.
 
 Planned development:
 * Flow cards to start and stop the climate control.
@@ -41,6 +40,7 @@ The interval in minutes between updates if the climate control has been switched
 
 ## Limitations
 * The official NissanConnect EV cloud service (developed and maintained by Nissan) do not allow charging to be stopped remotely. By that limitation, this app is not able to do that either.
+* Originally the official NissanConnect EV cloud service featured a "Car Location" function. This has sadly been deactivated and is no longer possible.
 
 ## Bug Reporting
 * Nissan's servers are known to be really unstable. Please confirm that the official app for your vehicle is working before reporting bugs here. 
