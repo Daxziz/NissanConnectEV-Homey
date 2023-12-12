@@ -25,7 +25,12 @@ The username associated with your official NissanConnect EV account.
 - Password **(REQUIRED)**  
 The password for your official NissanConnect EV account.
 - Region **(REQUIRED)**  
-The region where the NissanConnect EV account is registered. Should be one of the following, NE (for Europe), NNA (USA), NCI (Canada), NMA (Australia), NML (Japan).
+The region where the NissanConnect EV account is registered. The following options are availablr:
+    - Europe (NE)
+    - USA (NNA)
+    - Canada (NCI)
+    - Australia (NMA)
+    - Japan (NML).
 - Update Interval in Minutes *(optional, default: 60 minutes)*  
 The interval between updates if the climate control is off and the car is not charging.  
 **NOTICE:** *Providing a low update interval will cause the service to refresh more frequently and can negatively impact your cars 12V battery.*
